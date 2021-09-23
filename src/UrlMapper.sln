@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlMapper.Domain", "UrlMapper.Domain\UrlMapper.Domain.csproj", "{90851983-DB7A-49EE-A5EC-3584C78C3E8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlMapper.Test.App", "tests\UrlMapper.Test.App\UrlMapper.Test.App.csproj", "{DC75DBC2-A8BD-4E27-A00D-7E2C8D79591A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90851983-DB7A-49EE-A5EC-3584C78C3E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90851983-DB7A-49EE-A5EC-3584C78C3E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90851983-DB7A-49EE-A5EC-3584C78C3E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90851983-DB7A-49EE-A5EC-3584C78C3E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC75DBC2-A8BD-4E27-A00D-7E2C8D79591A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC75DBC2-A8BD-4E27-A00D-7E2C8D79591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC75DBC2-A8BD-4E27-A00D-7E2C8D79591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC75DBC2-A8BD-4E27-A00D-7E2C8D79591A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BDCACF-E4A4-4C1F-B7E1-176313C89A8B}
+	EndGlobalSection
+EndGlobal

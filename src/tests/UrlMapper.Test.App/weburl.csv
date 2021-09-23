@@ -1,0 +1,12 @@
+Description,Request,ResponseResult,ResponseStatus,ResponseError
+,https://www.oz.com/casio/watch-p-1925865?boutiqueId=439892&merchantId=105064,oz://?Page=Product&ContentId=1925865&CampaignId=439892&MerchantId=105064,Ok,
+,https://www.oz.com/casio/watch-p-1925865?boutiqueId=439892&merchantId=105064#adsId=2323,oz://?Page=Product&ContentId=1925865&CampaignId=439892&MerchantId=105064,Ok,
+,https://www.oz.com/casio/watch-p-1925865,oz://?Page=Product&ContentId=1925865,Ok,
+,https://www.oz.com/casio/watch-p-1925865?boutiqueId=439892,oz://?Page=Product&ContentId=1925865&CampaignId=439892,Ok,
+,https://www.oz.com/casio/watch-p-1925865?merchantId=105064,oz://?Page=Product&ContentId=1925865&MerchantId=105064,Ok,
+,https://www.oz.com/sr?q=dress,oz://?Page=Search&Query=dress,Ok,
+,https://www.oz.com/MyAccount/Favorites,oz://?Page=Home,Ok,
+,https://www.oz.com/MyAccount/#/MyOrders,oz://?Page=Home,Ok,
+SPA,https://www.oz.com/casio/watch-p-1925865?boutiqueId=439892&merchantId=105064/#/comments,oz://?Page=Product&ContentId=1925865&CampaignId=439892&MerchantId=105064,Ok,
+Fragment,https://www.oz.com/casio/watch-p-1925865?boutiqueId=439892&merchantId=105064#comments,oz://?Page=Product&ContentId=1925865&CampaignId=439892&MerchantId=105064,Ok,
+TrailingSlash,https://www.oz.com/casio/watch-p-1925865/,oz://?Page=Product&ContentId=1925865,Ok,
