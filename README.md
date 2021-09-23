@@ -15,11 +15,6 @@ Also it could be extended with new business requirements such as permanent redir
 - Serilog 
 - xUnit 
 
-### Requirements
-- Visual Studio.2019 (to debug)
-- Docker Desktop must be installed
-
-
 
 ### Test
 
